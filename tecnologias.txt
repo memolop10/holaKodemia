@@ -1,0 +1,10 @@
+las tecnologias que utilizo son:
+-javascript
+-html
+-css
+-angular
+-express
+-mongo
+
+lo que espero es tener los conocimientos necesarios para poder desarrollarme en el mundo laboral.
+
